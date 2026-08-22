@@ -81,11 +81,12 @@ A Django learning project where I practiced the relationship between routes, vie
 
 My current goal is to deepen my backend and data skills while continuing to work across the full system — from hardware and network constraints to the experience people see on screen.
 
-## 05 / GitHub activity
+## 05 / Current focus
 
-<p align="center">
-  <img width="58%" src="https://github-readme-stats.vercel.app/api?username=pyramdg&show_icons=true&hide_border=true&hide_title=true&rank_icon=github&title_color=087BCB&icon_color=19A7CE&text_color=667085&bg_color=00000000" alt="Gilson's GitHub statistics">
-</p>
+- Strengthening backend architecture with Python, FastAPI, Django, and PostgreSQL.
+- Improving the PMCA platform from telemetry and data integrity to the final dashboard.
+- Studying machine learning through practical projects and documented experiments.
+- Refining each repository so the problem, decisions, and learning are easy to understand.
 
 <p align="center">
   <sub>Building carefully, learning in public, and improving one version at a time.</sub>
