@@ -1,90 +1,68 @@
-# Hello! I'm Gilson
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=830000&width=600&lines=ADS+Student+and+IT+Technician;Backend+Developer+and+IoT+Enthusiast;Python+%7C+Django+%7C+ESP32+%7C+SQL)](https://git.io/typing-svg)
+# Gilson Lourenço da Silva
 
----
+**Backend Development · IoT · Data · IT Infrastructure**
 
-## About Me
+Systems Analysis and Development student based in Barueri, São Paulo, currently completing a technical program in IT Maintenance and Support.
 
-Systems Analysis and Development student focused on backend development, automation, IoT, and infrastructure.
-
-Currently studying Technical Support and IT Maintenance, with practical experience in:
-
-Python - Django - SQL - ESP32 - APIs - Automation - IoT Systems
-
----
-
-## Technologies and Tools
-<div align="left">
-<p>
-  <img src="https://skillicons.dev/icons?i=python,django,js,ts,nodejs,react,mysql,git,github,linux,vscode&theme=dark&perline=" />
-</p>
-
----
-
-## Technical Skills
-
-<div align="left">
-
-<img src="https://img.shields.io/badge/Backend-Development-830000?style=for-the-badge&logo=serverfault&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Python-Programming-830000?style=for-the-badge&logo=python&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Django-Web_Framework-830000?style=for-the-badge&logo=django&logoColor=white" />
-
-<img src="https://img.shields.io/badge/SQL-Database-830000?style=for-the-badge&logo=mysql&logoColor=white" />
-
-<img src="https://img.shields.io/badge/ESP32-IoT-830000?style=for-the-badge&logo=esphome&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Linux-System-830000?style=for-the-badge&logo=linux&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Git-Version_Control-830000?style=for-the-badge&logo=git&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Computer-Networks-830000?style=for-the-badge&logo=cisco&logoColor=white" />
+[![Portfolio](https://img.shields.io/badge/Portfolio-087BCB?style=for-the-badge&logo=githubpages&logoColor=white)](https://github.com/pyramdg/portfolio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gilson-l-619692320/)
 
 </div>
 
 ---
 
-## Featured Project
+## About me
 
-### Water Consumption Monitoring System
+I enjoy understanding the full path of a system — from the sensor and network to the backend, database, and final user experience.
 
-ESP32 + YF-S201 project for real-time water monitoring.
+I started with programming logic, moved into Arduino and ESP32, strengthened my networking foundation through Cisco Networking Academy, and brought those skills into backend and data projects. I learn best by building, documenting the process, and fixing what does not work.
 
-- Real-time monitoring
-- Python backend
-- SQL database
-- Blynk integration
-- Monthly consumption dashboard
+I am currently looking for an apprenticeship, internship, freelance project, or junior role in software development, technical support, networking, or data.
 
----
+## Featured projects
 
-## Goals
+| Project | What I built | Technologies |
+|---|---|---|
+| [**PMCA — Water Consumption Monitoring**](https://github.com/pyramdg/pmca-monitoramento-agua) | An end-to-end platform that receives ESP32 readings, stores them securely, and displays water consumption and flow data in a responsive dashboard. | ESP32, C++, FastAPI, PostgreSQL, JWT |
+| [**Personal Portfolio**](https://github.com/pyramdg/portfolio) | A responsive portfolio with light and dark themes, accessible interactions, and detailed project case studies. | HTML, CSS, JavaScript |
+| [**Advanced Registration System**](https://github.com/pyramdg/advanced_registration_system_project) | A user registration project built to practice routes, views, models, templates, and form validation. | Python, Django, Bootstrap |
 
-Focused on improving my skills in:
+## Technologies I work with
 
-- Backend Development
-- Embedded Systems
-- Software Engineering
-- Infrastructure and Networks
+<div align="left">
 
-Future Computer Engineering student aiming to build scalable and high-impact solutions.
+![Python](https://img.shields.io/badge/Python-101828?style=flat-square&logo=python&logoColor=54B8FF)
+![FastAPI](https://img.shields.io/badge/FastAPI-101828?style=flat-square&logo=fastapi&logoColor=55D5E8)
+![Django](https://img.shields.io/badge/Django-101828?style=flat-square&logo=django&logoColor=54B8FF)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-101828?style=flat-square&logo=postgresql&logoColor=55D5E8)
+![C++](https://img.shields.io/badge/C%2B%2B-101828?style=flat-square&logo=cplusplus&logoColor=54B8FF)
+![Arduino](https://img.shields.io/badge/Arduino-101828?style=flat-square&logo=arduino&logoColor=55D5E8)
+![Git](https://img.shields.io/badge/Git-101828?style=flat-square&logo=git&logoColor=54B8FF)
+![Linux](https://img.shields.io/badge/Linux-101828?style=flat-square&logo=linux&logoColor=55D5E8)
 
----
-## GitHub Stats
-<p>
-<div align="">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AGOCSAFAZE&show_icons=true&bg_color=000000&title_color=830000&text_color=ffffff&icon_color=830000&border_color=830000" />
-  
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AGOCSAFAZE&layout=compact&bg_color=000000&title_color=830000&text_color=ffffff&border_color=830000" />
 </div>
-</p>
 
----
+- **Backend:** Python, FastAPI, Django, Flask, and SQLAlchemy
+- **Data:** PostgreSQL, SQL, pandas, scikit-learn, and Power BI
+- **IoT:** ESP32, Arduino, sensors, LittleFS, and HTTPS telemetry
+- **Infrastructure:** networking, hardware, maintenance, Git, and security fundamentals
 
-<h2 align="left">Streak</h2>
+## Education and continuous learning
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AGOCSAFAZE&&theme=dark&background=000000&ring=830000&fire=830000&currStreakLabel=ffffff&border=830000"/>
-</p>
+- Systems Analysis and Development
+- IT Maintenance and Support — FIEB
+- Cisco Networking Academy: IT Essentials, CCNA 1, and CyberOps
+- DataCamp: hands-on Machine Learning track
+- Microsoft Learn: cloud fundamentals, Python, and Copilot for Microsoft 365
+
+## What I am working on
+
+I am currently improving the PMCA platform, deepening my knowledge of Python and machine learning, and organizing my repositories so each project clearly explains the problem, the decisions, and what I learned.
+
+<div align="center">
+
+![Gilson's GitHub statistics](https://github-readme-stats.vercel.app/api?username=pyramdg&show_icons=true&hide_border=true&title_color=087BCB&icon_color=19A7CE&text_color=667085&bg_color=00000000)
+
+</div>
