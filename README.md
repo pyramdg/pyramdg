@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/pyramdg/portfolio"><img src="https://img.shields.io/badge/View_portfolio-087BCB?style=for-the-badge&logo=safari&logoColor=white" alt="View portfolio"></a>
+  <a href="https://gilson-lourenco-portfolio.gilsonlourenco946.chatgpt.site"><img src="https://img.shields.io/badge/View_portfolio-087BCB?style=for-the-badge&logo=safari&logoColor=white" alt="View portfolio"></a>
   <a href="https://www.linkedin.com/in/gilson-l-619692320/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-101828?style=for-the-badge&logo=linkedin&logoColor=55D5E8" alt="Connect on LinkedIn"></a>
 </p>
 
@@ -35,7 +35,7 @@ A responsive portfolio designed as a set of project case studies, with light and
 
 **My focus:** semantic HTML, responsive CSS, interaction design, accessibility, and clear technical storytelling.
 
-[Explore the repository →](https://github.com/pyramdg/portfolio)
+[View the live portfolio →](https://gilson-lourenco-portfolio.gilsonlourenco946.chatgpt.site) · [Explore the repository →](https://github.com/pyramdg/portfolio)
 
 ---
 
